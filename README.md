@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 - I'm currently pursuing B.Tech from Integral University 🧑🏻‍🎓<br>
 - My domain of expertise is AWS, AZURE Cloud and DevOps 😁<br>
 - I'm currently learning Data Science with the power of Python 💪🏻<br>
